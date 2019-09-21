@@ -17,5 +17,5 @@ Enjoy the gallery!
 <img src="https://github.com/MatteoDM23/UX_Homepages-Photography_Portfolio/blob/master/Desktop%206.jpg">
 <br>
 <img src="https://github.com/MatteoDM23/UX_Homepages-Photography_Portfolio/blob/master/Desktop%203.6.jpg">
-<br>
-Thanks for watching!
+<br><br><br>
+<h2>Thanks for watching!</h2>
